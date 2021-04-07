@@ -1,1 +1,3 @@
-# Guessing_Game
+This is my first ever python program/game.
+Im proud of it. Maybe even proud enought to call it my son...
+I dont care what you use the code for. 
